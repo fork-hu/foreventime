@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.21e2f3c6.css",
-    "main.js": "/static/js/main.9a5ecc81.js",
+    "main.js": "/static/js/main.09b21d6b.js",
     "static/js/953.80625b0b.chunk.js": "/static/js/953.80625b0b.chunk.js",
     "static/css/245.7bfb5ed4.chunk.css": "/static/css/245.7bfb5ed4.chunk.css",
     "static/js/245.42d430bc.chunk.js": "/static/js/245.42d430bc.chunk.js",
@@ -41,17 +41,15 @@
     "static/media/iokcafe3.png": "/static/media/iokcafe3.e3f2b99ee2cb1e59375f.png",
     "static/media/educationnextlogo.png": "/static/media/educationnextlogo.4e855e4a80a3ddbad07a.png",
     "static/media/iokcafe4.png": "/static/media/iokcafe4.aaff3fe7894148873b2e.png",
-    "static/media/netacad2.png": "/static/media/netacad2.ddb48cec1704a4c173bd.png",
-    "static/media/pannon-mik2.png": "/static/media/pannon-mik2.3544fe72a4bcfee7df2e.png",
     "index.html": "/index.html",
     "main.21e2f3c6.css.map": "/static/css/main.21e2f3c6.css.map",
-    "main.9a5ecc81.js.map": "/static/js/main.9a5ecc81.js.map",
+    "main.09b21d6b.js.map": "/static/js/main.09b21d6b.js.map",
     "953.80625b0b.chunk.js.map": "/static/js/953.80625b0b.chunk.js.map",
     "245.7bfb5ed4.chunk.css.map": "/static/css/245.7bfb5ed4.chunk.css.map",
     "245.42d430bc.chunk.js.map": "/static/js/245.42d430bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21e2f3c6.css",
-    "static/js/main.9a5ecc81.js"
+    "static/js/main.09b21d6b.js"
   ]
 }
